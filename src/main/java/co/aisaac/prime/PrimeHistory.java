@@ -1,4 +1,4 @@
-package co.aisaac.utils;
+package co.aisaac.prime;
 
 import java.io.IOException;
 import java.net.URI;
